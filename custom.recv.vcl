@@ -1,0 +1,1 @@
+include "conf.d/receive/wordpress.vcl";
